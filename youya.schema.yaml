@@ -1,0 +1,94 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: youya
+  name: 优雅拼音
+  version: "1.0.0"
+  author:
+    - zhiwei
+  description: |
+    使用「雾凇拼音」的词库，基于其进行的相关修改。
+    https://github.com/iDvel/rime-ice
+
+switches:
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: traditionalization
+    states: [ 简体, 繁体 ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+  filters:
+    - simplifier@traditionalize
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    # 基础
+    - abbrev/^([a-z]).+$/$1/
+    - abbrev/^([zcs]h).+$/$1/
+
+    # 补全
+    - derive/([dtngkhrzcs])o(u|ng)$/$1o/   # o = ou; o = ong
+    - derive/ong$/on/      # on = ong
+    - derive/^ding$/din/     # din = ding
+
+    # 处理 v 和 u
+    - derive/^([nl])ue$/$1ve/   # nve = nue; lve = lue
+    - derive/^([jqxy])u/$1v/    # v = u; v = u
+
+    # 智能纠错
+    - derive/ao$/oa/       # oa = ao
+    - derive/([iu])a(o|ng?)$/a$1$2/   # aio = iao; aing = iang; aung = uang
+    - derive/([aeiou])ng$/$1gn/   # gn = ng
+    - derive/un$/uen/    # uen = un
+    - derive/ui$/uei/    # uei = ui
+    - derive/iu$/iou/    # iou = ui
+    - derive/tie$/tei/    # tei = tie
+    - derive/i$/ii/      # ii = i  # i 不小心按两下
+    - derive/u$/uu/      # ui = u  # u 不小心按两下
+
+translator:
+  dictionary: youya
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+traditionalize:
+  option_name: traditionalization
+  opencc_config: s2t.json             # s2t.json | s2hk.json | s2tw.json | s2twp.json
+  tips: none                          # 转换提示: all 都显示 | char 仅单字显示 | none 不显示。
+  excluded_types: [ reverse_lookup ]  # 不转换反查（两分拼字）的内容
+
+punctuator:
+  import_preset: symbols.plus
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^u[a-z]*'?$"

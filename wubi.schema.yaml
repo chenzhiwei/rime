@@ -1,0 +1,87 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: wubi
+  name: 极点五笔
+  version: "0.25"
+  author:
+    - 发明人 王永民先生
+  description: |
+    五笔字型86版
+    码表源自 极点五笔
+    敲 z 键进入拼音反查
+  dependencies:
+    - youya
+
+switches:
+  - name: full_shape
+    states: [ 半角, 全角 ]
+  - name: traditionalization
+    states: [ 简体, 繁体 ]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    - simplifier@traditionalize
+
+speller:
+  auto_select: false # 四码唯一时也不上屏
+
+translator:
+  dictionary: wubi
+  enable_charset_filter: true
+  enable_sentence: true
+  enable_encoder: true
+  encode_commit_history: false
+  enable_user_dict: false
+  max_phrase_length: 4
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+traditionalize:
+  # s2t: -> General tradition
+  # s2hk -> Hongkong tradition
+  # s2tw -> Taiwan tradition
+  opencc_config: s2t.json
+  option_name: traditionalization
+
+reverse_lookup:
+  dictionary: youya
+  prefix: "z"
+  suffix: "'"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: symbols.plus
+
+key_binder:
+  import_preset: default
+
+recognizer:
+  import_preset: default
+  patterns:
+    reverse_lookup: "^z[a-z]*'?$"

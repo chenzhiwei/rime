@@ -1,0 +1,16 @@
+patch:
+  style/candidate_list_layout: linear # stacked | linear
+  style/text_orientation: horizontal  # horizontal | vertical
+
+  # disable inline composing
+  # 关闭内嵌编码，即候选窗显示两行，第一行拼音，第二行结果
+  style/inline_preedit: false
+
+  # used when inline_preedit is true
+  # 内嵌编码处显示拼音(composition)还是结果(preview)
+  # style/preedit_style: composition
+  app_options:
+    com.googlecode.iterm2:
+      ascii_mode: false
+    org.vim.MacVim:
+      ascii_mode: false

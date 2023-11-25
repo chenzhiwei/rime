@@ -1,0 +1,9 @@
+name: youya
+version: "1"
+sort: by_weight
+
+import_tables:
+  - youya/8105     # 字表
+  - youya/base     # 基础词库
+  - youya/ext      # 扩展词库
+  - youya/tencent  # 腾讯词向量（大词库，部署时间较长）

@@ -1,0 +1,59 @@
+# Rime dictionary: wubi
+# encoding: utf-8
+#
+# Readme
+#
+# 二字权重默认为70
+# 单字权重默认为50，改为75提升重码时权重
+# 三字权重默认为30
+# 四字权重默认为10
+# 权重建议只往大调整
+#
+# Changelog
+#
+# zhiwei <zhiwei@youya.org>
+#   - 删除特殊字符
+#   - 删除长度大于5个字的词语
+#   - 扩充词库
+#   - 删除部分三字词语
+#   - 将字典文件字汉字个数拆分成不同文件
+#
+# networm <zzjbcn@gmail.com>
+#   - 由极点五笔十周年版词库导出
+#
+# Original table author
+#   - Wozy <wozy.in@gmail.com>
+
+name: wubi
+version: "20231201"
+
+# 码表的排序方式
+# by_weight 权重, original 原始顺序
+sort: by_weight
+
+# 码表格式
+# text 文字, code 输入码, weight 权重
+columns:
+  - text
+  - code
+  - weight
+  - stem
+
+# 造词规则
+# 大写字母表示字序，小写字母表示其所跟随的大写字母所以表的字中的编码序
+encoder:
+  exclude_patterns:
+    - '^z.*$'
+  rules:
+    - length_equal: 2     # 对于二字词
+      formula: "AaAbBaBb" # Aa第一字第一码,Ab第一字第二码,Ba第二字第一码,Bb第二字第二码
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+
+import_tables:
+  - wubi/jidian.two
+  - wubi/jidian.one
+  - wubi/jidian.three
+  - wubi/jidian.four
