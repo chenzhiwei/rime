@@ -49,7 +49,6 @@ speller:
 
 translator:
   dictionary: wubi
-  enable_charset_filter: true
   enable_sentence: true
   enable_encoder: true
   encode_commit_history: false
