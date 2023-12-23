@@ -138,6 +138,7 @@ version: "20231201"
 苦难	adcw	70
 欺骗	adcy	70
 基础	addb	70
+基友	addc	70
 若有	adde	70
 欺压	addf	70
 基石	addg	70
@@ -2599,6 +2600,7 @@ version: "20231201"
 出外	bmqh	70
 出名	bmqk	70
 出锅	bmqk	70
+出金	bmqq	70
 聘金	bmqq	70
 出狱	bmqt	70
 出镜	bmqu	70
@@ -6572,6 +6574,7 @@ version: "20231201"
 太傅	dywg	70
 太保	dywk	70
 矿体	dyws	70
+丈八	dywt	70
 丈人	dyww	70
 硫化	dywx	70
 丈母	dyxg	70
@@ -6691,6 +6694,7 @@ version: "20231201"
 肥缺	ecrm	70
 胎气	ecrn	70
 胎盘	ecte	70
+盈透	ecte	70
 胎毛	ectf	70
 胎生	ectg	70
 盈利	ectj	70
@@ -7452,7 +7456,7 @@ version: "20231201"
 用好	etvb	70
 乃翁	etwc	70
 胜仗	etwd	70
-用命	etwg	70
+用例	etwg	70
 胜似	etwn	70
 乃父	etwq	70
 用途	etwt	70
@@ -8028,6 +8032,7 @@ version: "20231201"
 动向	fctm	70
 去向	fctm	70
 动身	fctm	70
+云管	fctp	70
 动物	fctr	70
 动笔	fctt	70
 支委	fctv	70
@@ -10669,6 +10674,7 @@ version: "20231201"
 天赋	gdmg	70
 天赐	gdmj	70
 天山	gdmm	70
+天风	gdmq	70
 天书	gdnn	70
 天性	gdnt	70
 吞精	gdog	70
@@ -17455,6 +17461,7 @@ version: "20231201"
 申通	jhce	70
 早有	jhde	70
 早在	jhdh	70
+申万	jhdn	70
 畅达	jhdp	70
 早春	jhdw	70
 早孕	jheb	70
@@ -17495,6 +17502,7 @@ version: "20231201"
 冒号	jhkg	70
 虫鸣	jhkq	70
 申办	jhlw	70
+申赎	jhmf	70
 申购	jhmq	70
 申屠	jhnf	70
 早已	jhnn	70
@@ -18783,6 +18791,7 @@ version: "20231201"
 遗愿	khdr	70
 路碑	khdr	70
 中厅	khds	70
+中泰	khdw	70
 中服	kheb	70
 足月	khee	70
 跺脚	khef	70
@@ -18985,6 +18994,7 @@ version: "20231201"
 嘴馋	khqn	70
 踢馆	khqn	70
 蹭饭	khqn	70
+中金	khqq	70
 中锋	khqt	70
 中银	khqv	70
 遗留	khqy	70
@@ -19080,9 +19090,9 @@ version: "20231201"
 路段	khwd	70
 遗传	khwf	70
 跌倒	khwg	70
-趴倒	khwg	70
 跪倒	khwg	70
 踢倒	khwg	70
+中登	khwg	70
 忠仆	khwh	70
 中介	khwj	70
 跟你	khwq	70
@@ -19893,6 +19903,7 @@ version: "20231201"
 唯心	kwny	70
 喉炎	kwoo	70
 只字	kwpb	70
+哈富	kwpg	70
 哈密	kwpn	70
 哗然	kwqd	70
 只够	kwqk	70
@@ -20350,6 +20361,7 @@ version: "20231201"
 转嫁	lfvp	70
 转借	lfwa	70
 转贷	lfwa	70
+转仓	lfwb	70
 转会	lfwf	70
 墨盒	lfwg	70
 转债	lfwg	70
@@ -20425,6 +20437,7 @@ version: "20231201"
 车友	lgdc	70
 国大	lgdd	70
 国有	lgde	70
+国盛	lgdn	70
 车厢	lgds	70
 国故	lgdt	70
 国泰	lgdw	70
@@ -20437,6 +20450,7 @@ version: "20231201"
 车震	lgfd	70
 国土	lgff	70
 车场	lgfn	70
+国元	lgfq	70
 国都	lgft	70
 国教	lgft	70
 国境	lgfu	70
@@ -20512,6 +20526,7 @@ version: "20231201"
 国玺	lgqi	70
 车锁	lgqi	70
 国名	lgqk	70
+国金	lgqq	70
 车钩	lgqq	70
 车兜	lgqr	70
 车铃	lgqw	70
@@ -20582,6 +20597,7 @@ version: "20231201"
 国人	lgww	70
 国货	lgwx	70
 辅食	lgwy	70
+国信	lgwy	70
 辅弼	lgxd	70
 车组	lgxe	70
 国母	lgxg	70
@@ -21687,10 +21703,12 @@ version: "20231201"
 周薪	mfau	70
 雕花	mfaw	70
 财险	mfbw	70
+财通	mfce	70
 赌圣	mfcf	70
 雕砌	mfda	70
 赌友	mfdc	70
 周三	mfdg	70
+财达	mfdp	70
 财运	mffc	70
 赌城	mffd	70
 赌博	mffg	70
@@ -22655,6 +22673,7 @@ version: "20231201"
 内眷	mwud	70
 内装	mwuf	70
 内部	mwuk	70
+内资	mwuq	70
 内疚	mwuq	70
 内亲	mwus	70
 内阁	mwut	70
@@ -25535,6 +25554,7 @@ version: "20231201"
 寡妻	pdgv	70
 寄上	pdhh	70
 害眼	pdhv	70
+宏源	pdid	70
 害虫	pdjh	70
 寡味	pdkf	70
 豁嘴	pdkh	70
@@ -28698,6 +28718,7 @@ version: "20231201"
 铁屑	qrni	70
 铁臂	qrnk	70
 匆忙	qrny	70
+锦业	qrog	70
 铁定	qrpg	70
 铁军	qrpl	70
 锦袍	qrpu	70
@@ -30261,6 +30282,7 @@ version: "20231201"
 后事	rggk	70
 挟带	rggk	70
 后来	rggo	70
+抹平	rggu	70
 皇上	rghh	70
 后步	rghi	70
 搏战	rghk	70
@@ -34997,6 +35019,7 @@ version: "20231201"
 长相	tash	70
 升档	tasi	70
 彻查	tasj	70
+长桥	tast	70
 升格	tast	70
 长枪	tasw	70
 簸箕	tata	70
@@ -36134,6 +36157,7 @@ version: "20231201"
 征伐	tgwa	70
 重创	tgwb	70
 秉公	tgwc	70
+重做	tgwd	70
 生俘	tgwe	70
 生命	tgwg	70
 重合	tgwg	70
@@ -36999,6 +37023,7 @@ version: "20231201"
 奥拓	tmrd	70
 身后	tmrg	70
 身披	tmrh	70
+微牛	tmrh	70
 币制	tmrm	70
 秽气	tmrn	70
 微白	tmrr	70
@@ -38245,6 +38270,7 @@ version: "20231201"
 痛责	ucgm	70
 痛恶	ucgo	70
 痛歼	ucgq	70
+痛点	uchk	70
 痛觉	ucip	70
 痛哭	uckk	70
 痛骂	uckk	70
@@ -40096,6 +40122,7 @@ version: "20231201"
 亲临	usjt	70
 新星	usjt	70
 遵照	usjv	70
+新叶	uskf	70
 新号	uskg	70
 尊号	uskg	70
 尊贵	uskh	70
@@ -44377,6 +44404,7 @@ version: "20231201"
 化石	wxdg	70
 华夏	wxdh	70
 化成	wxdn	70
+华泰	wxdw	70
 化龙	wxdx	70
 华服	wxeb	70
 化肥	wxec	70
@@ -44429,18 +44457,21 @@ version: "20231201"
 倾心	wxny	70
 华灯	wxos	70
 佛家	wxpe	70
+华宝	wxpg	70
+华安	wxpv	70
 佛祖	wxpy	70
 货色	wxqc	70
 化解	wxqe	70
 化外	wxqh	70
 倾销	wxqi	70
 化名	wxqk	70
+华鑫	wxqq	70
 货摊	wxrc	70
 货损	wxrk	70
 佛手	wxrt	70
 货柜	wxsa	70
 货票	wxsf	70
-货栈	wxsg	70
+华西	wxsg	70
 货机	wxsm	70
 倾覆	wxst	70
 货样	wxsu	70
@@ -45289,6 +45320,7 @@ version: "20231201"
 母亲	xgus	70
 母女	xgvv	70
 线段	xgwd	70
+绩优	xgwd	70
 母体	xgws	70
 线人	xgww	70
 纯化	xgwx	70
@@ -49018,6 +49050,7 @@ version: "20231201"
 文静	yyge	70
 文玩	yygf	70
 议政	yygh	70
+方正	yygh	70
 文理	yygj	70
 议事	yygk	70
 文责	yygm	70
@@ -49037,8 +49070,8 @@ version: "20231201"
 广电	yyjn	70
 文号	yykg	70
 文中	yykh	70
-议员	yykm	70
 文员	yykm	70
+议员	yykm	70
 文史	yykq	70
 言喻	yykw	70
 文墨	yylf	70
