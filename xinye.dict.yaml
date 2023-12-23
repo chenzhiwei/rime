@@ -1,4 +1,4 @@
-# Rime dictionary: wubi
+# Rime dictionary: xinye
 # encoding: utf-8
 #
 # Readme
@@ -17,6 +17,7 @@
 #   - 扩充词库
 #   - 删除部分三字词语
 #   - 将字典文件字汉字个数拆分成不同文件
+#   - 词典已经裁剪和新增了太多内容，改名为新叶词库
 #
 # networm <zzjbcn@gmail.com>
 #   - 由极点五笔十周年版词库导出
@@ -24,7 +25,7 @@
 # Original table author
 #   - Wozy <wozy.in@gmail.com>
 
-name: wubi
+name: xinye
 version: "20231201"
 
 # 码表的排序方式
@@ -53,7 +54,7 @@ encoder:
       formula: "AaBaCaZa"
 
 import_tables:
-  - wubi/jidian.two
-  - wubi/jidian.one
-  - wubi/jidian.three
-  - wubi/jidian.four
+  - xinye/wubi.two
+  - xinye/wubi.one
+  - xinye/wubi.three
+  - xinye/wubi.four

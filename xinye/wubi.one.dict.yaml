@@ -1,4 +1,4 @@
-# Rime dictionary: wubi
+# Rime dictionary: xinye
 # encoding: utf-8
 #
 # ------- 《通用规范汉字表》8105 字字表 -------
@@ -25,7 +25,7 @@
 # 囍
 
 ---
-name: jidian.one
+name: wubi.one
 version: "20231201"
 
 ...

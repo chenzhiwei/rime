@@ -6,7 +6,7 @@ patch:
     page_size: 6
 
   schema_list:
-    - schema: wubi
+    - schema: xinye
     - schema: youya
 
   switcher:

@@ -2,8 +2,6 @@
 
 First of all, I love Rime.
 
-Here is a wubi table I modified from jidian-wubi.
-
 If you want to type simplified and output tranditional words, please install `opencc`.
 
 ## Install Rime for IBus

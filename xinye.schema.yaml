@@ -2,15 +2,14 @@
 # encoding: utf-8
 
 schema:
-  schema_id: wubi
-  name: 极点五笔
-  version: "0.25"
+  schema_id: xinye
+  name: 新叶五笔
+  version: "1.0.0"
   author:
-    - 发明人 王永民先生
+    - zhiwei
   description: |
-    五笔字型86版
-    码表源自 极点五笔
-    敲 z 键进入拼音反查
+    新叶五笔 - 五笔86版
+    敲 z 键可进入拼音反查
   dependencies:
     - youya
 
@@ -48,7 +47,7 @@ speller:
   auto_select: false # 四码唯一时也不上屏
 
 translator:
-  dictionary: wubi
+  dictionary: xinye
   enable_sentence: true
   enable_encoder: true
   encode_commit_history: false
