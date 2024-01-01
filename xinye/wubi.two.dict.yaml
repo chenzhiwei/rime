@@ -733,6 +733,7 @@ version: "20231201"
 落槌	aisw	70
 汞柱	aisy	70
 东升	aita	70
+落盘	aite	70
 荡舟	aite	70
 落选	aitf	70
 东征	aitg	70
@@ -4644,6 +4645,7 @@ version: "20231201"
 大娘	ddvy	70
 大公	ddwc	70
 大会	ddwf	70
+大佬	ddwf	70
 大全	ddwg	70
 大使	ddwg	70
 大侠	ddwg	70
@@ -5325,6 +5327,7 @@ version: "20231201"
 夏季	dhtb	70
 存盘	dhte	70
 在行	dhtf	70
+存算	dhth	70
 破处	dhth	70
 夏衍	dhti	70
 夏利	dhtj	70
@@ -6504,6 +6507,7 @@ version: "20231201"
 太爽	dydq	70
 太原	dydr	70
 太太	dydy	70
+碎股	dyem	70
 矿脉	dyey	70
 太坏	dyfg	70
 矿盐	dyfh	70
@@ -7629,6 +7633,7 @@ version: "20231201"
 肮脏	eyey	70
 脉动	eyfc	70
 脏土	eyff	70
+脉博	eyfg	70
 脑干	eyfg	70
 脑壳	eyfp	70
 及至	eygc	70
@@ -8715,6 +8720,7 @@ version: "20231201"
 真经	fhxc	70
 超级	fhxe	70
 直线	fhxg	70
+走线	fhxg	70
 超强	fhxk	70
 赴约	fhxq	70
 起疑	fhxt	70
@@ -9396,6 +9402,7 @@ version: "20231201"
 专栏	fnsu	70
 块根	fnsv	70
 专长	fnta	70
+卖盘	fnte	70
 亏待	fntf	70
 声息	fnth	70
 专利	fntj	70
@@ -12176,6 +12183,7 @@ version: "20231201"
 两周	gmmf	70
 再则	gmmj	70
 再见	gmmq	70
+现网	gmmq	70
 责怪	gmnc	70
 两层	gmnf	70
 两臂	gmnk	70
@@ -17306,6 +17314,7 @@ version: "20231201"
 旱船	jfte	70
 时行	jftf	70
 野生	jftg	70
+时延	jfth	70
 里程	jftk	70
 时务	jftl	70
 时称	jftq	70
@@ -18091,6 +18100,7 @@ version: "20231201"
 星图	jtlt	70
 临界	jtlw	70
 临风	jtmq	70
+星展	jtna	70
 蛾眉	jtnh	70
 星火	jtoo	70
 监守	jtpf	70
@@ -18176,6 +18186,7 @@ version: "20231201"
 暗中	jukh	70
 暗哨	juki	70
 暗器	jukk	70
+蝉鸣	jukk	70
 暗喻	jukw	70
 暗黑	julf	70
 暗转	julf	70
@@ -20811,6 +20822,7 @@ version: "20231201"
 驾崩	lkme	70
 圆周	lkmf	70
 回帖	lkmh	70
+回购	lkmq	70
 贺岁	lkmq	70
 回赠	lkmu	70
 回民	lkna	70
@@ -22214,6 +22226,7 @@ version: "20231201"
 网志	mqfn	70
 风声	mqfn	70
 见过	mqfp	70
+网元	mqfq	70
 风霜	mqfs	70
 刚才	mqft	70
 风雪	mqfv	70
@@ -23762,6 +23775,7 @@ version: "20231201"
 已经	nnxc	70
 局级	nnxe	70
 乙级	nnxe	70
+快线	nnxg	70
 羽纱	nnxi	70
 快充	nnyc	70
 快译	nnyc	70
@@ -24166,6 +24180,7 @@ version: "20231201"
 买家	nupe	70
 买官	nupn	70
 飞灾	nupo	70
+飞客	nupt	70
 买客	nupt	70
 飞鹤	nupw	70
 悦色	nuqc	70
@@ -24193,6 +24208,7 @@ version: "20231201"
 飞升	nuta	70
 飞船	nute	70
 飞盘	nute	70
+买盘	nute	70
 飞行	nutf	70
 屏息	nuth	70
 飞向	nutm	70
@@ -26324,6 +26340,7 @@ version: "20231201"
 灾祸	popy	70
 灾后	porg	70
 灾年	porh	70
+灾备	potl	70
 灾变	poyo	70
 之际	ppbf	70
 之友	ppdc	70
@@ -26837,6 +26854,7 @@ version: "20231201"
 案件	pvwr	70
 安分	pvwv	70
 安坐	pvww	70
+安信	pvwy	70
 安度	pvya	70
 安享	pvyb	70
 安庆	pvyd	70
@@ -26953,6 +26971,7 @@ version: "20231201"
 空寂	pwph	70
 突审	pwpj	70
 空军	pwpl	70
+容灾	pwpo	70
 空额	pwpt	70
 窃案	pwpv	70
 窗帘	pwpw	70
@@ -29256,6 +29275,7 @@ version: "20231201"
 键位	qvwu	70
 争分	qvwv	70
 争价	qvww	70
+银华	qvwx	70
 急停	qvwy	70
 银红	qvxa	70
 银线	qvxg	70
@@ -33031,6 +33051,7 @@ version: "20231201"
 护短	rytd	70
 抗敌	rytd	70
 护航	ryte	70
+护盘	ryte	70
 擅自	ryth	70
 搞得	rytj	70
 护身	rytm	70
@@ -33066,6 +33087,7 @@ version: "20231201"
 邀人	ryww	70
 护住	rywy	70
 抗旨	ryxj	70
+扩缩	ryxp	70
 邀约	ryxq	70
 扩张	ryxt	70
 扩编	ryxy	70
@@ -36156,6 +36178,7 @@ version: "20231201"
 甥女	tgvv	70
 征伐	tgwa	70
 重创	tgwb	70
+重仓	tgwb	70
 秉公	tgwc	70
 重做	tgwd	70
 生俘	tgwe	70
@@ -39514,6 +39537,7 @@ version: "20231201"
 总署	uklf	70
 问斩	uklr	70
 冲力	uklt	70
+问界	uklw	70
 总办	uklw	70
 总则	ukmj	70
 竞岗	ukmm	70
@@ -39799,6 +39823,7 @@ version: "20231201"
 普教	uoft	70
 普天	uogd	70
 痰盂	uogf	70
+普惠	uogj	70
 普卡	uohh	70
 普洱	uoib	70
 普法	uoif	70
@@ -39945,6 +39970,7 @@ version: "20231201"
 净赚	uqmu	70
 酱肉	uqmw	70
 交情	uqng	70
+交收	uqnh	70
 交臂	uqnk	70
 盗刷	uqnm	70
 交尾	uqnt	70
@@ -42116,6 +42142,7 @@ version: "20231201"
 代课	wayj	70
 代为	wayl	70
 借调	waym	70
+借记	wayn	70
 供词	wayn	70
 代词	wayn	70
 代庖	wayq	70
@@ -42398,6 +42425,7 @@ version: "20231201"
 做梦	wdss	70
 优秀	wdte	70
 优先	wdtf	70
+优选	wdtf	70
 优待	wdtf	70
 倚重	wdtg	70
 优生	wdtg	70
@@ -42693,6 +42721,7 @@ version: "20231201"
 全队	wgbw	70
 使劲	wgca	70
 全能	wgce	70
+使能	wgce	70
 倒台	wgck	70
 登台	wgck	70
 盒马	wgcn	70
@@ -43546,6 +43575,7 @@ version: "20231201"
 低音	wquj	70
 像章	wquj	70
 低端	wqum	70
+低效	wquq	70
 父亲	wqus	70
 低产	wqut	70
 你好	wqvb	70
@@ -45158,6 +45188,7 @@ version: "20231201"
 组词	xeyn	70
 结节	xfab	70
 续期	xfad	70
+结项	xfad	70
 结子	xfbb	70
 续娶	xfbc	70
 续聘	xfbm	70
@@ -45722,6 +45753,7 @@ version: "20231201"
 缩小	xpih	70
 缩水	xpii	70
 缩紧	xpjc	70
+缩量	xpjg	70
 缩影	xpjy	70
 缩回	xplk	70
 缩略	xplt	70
@@ -47529,6 +47561,7 @@ version: "20231201"
 高教	ymft	70
 调教	ymft	70
 调零	ymfw	70
+高开	ymga	70
 敲开	ymga	70
 调到	ymgc	70
 高于	ymgf	70
