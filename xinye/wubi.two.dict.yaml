@@ -1600,6 +1600,7 @@ version: "20231201"
 切脉	avey	70
 切去	avfc	70
 萧墙	avff	70
+切走	avfh	70
 切块	avfn	70
 萧索	avfp	70
 切开	avga	70
@@ -1711,6 +1712,7 @@ version: "20231201"
 茶点	awhk	70
 花眼	awhv	70
 茶具	awhw	70
+共池	awib	70
 花池	awib	70
 巫婆	awih	70
 茶水	awii	70
@@ -3643,6 +3645,7 @@ version: "20231201"
 能手	cert	70
 熊势	cerv	70
 通票	cesf	70
+通配	cesg	70
 熊样	cesu	70
 通栏	cesu	70
 通彻	ceta	70
@@ -12848,6 +12851,7 @@ version: "20231201"
 素日	gxjj	70
 毒蛇	gxjp	70
 毒品	gxkk	70
+互转	gxlf	70
 互连	gxlp	70
 互见	gxmq	70
 毒贩	gxmr	70
@@ -12893,6 +12897,7 @@ version: "20231201"
 毒奶	gxve	70
 素女	gxvv	70
 互借	gxwa	70
+互传	gxwf	70
 互保	gxwk	70
 毒化	gxwx	70
 互信	gxwy	70
@@ -14006,6 +14011,7 @@ version: "20231201"
 满额	iapt	70
 漠视	iapy	70
 漠然	iaqd	70
+汇金	iaqq	70
 汇报	iarb	70
 汇拢	iard	70
 鸿爪	iarh	70
@@ -14078,6 +14084,7 @@ version: "20231201"
 涵养	ibud	70
 涵盖	ibug	70
 涵闸	ibul	70
+池化	ibwx	70
 池州	ibyt	70
 池座	ibyw	70
 汉英	icam	70
@@ -15117,6 +15124,7 @@ version: "20231201"
 温差	ijud	70
 混剪	ijue	70
 混音	ijuj	70
+混部	ijuk	70
 滥交	ijuq	70
 漫道	ijut	70
 湿冷	ijuw	70
@@ -17535,6 +17543,7 @@ version: "20231201"
 冒领	jhwy	70
 申诫	jhya	70
 早熟	jhyb	70
+畅享	jhyb	70
 冒充	jhyc	70
 早读	jhyf	70
 申请	jhyg	70
@@ -20519,6 +20528,7 @@ version: "20231201"
 车技	lgrf	70
 车后	lgrg	70
 国手	lgrt	70
+国投	lgrm	70
 国势	lgrv	70
 车模	lgsa	70
 国权	lgsc	70
@@ -24044,6 +24054,7 @@ version: "20231201"
 发作	ntwt	70
 性侵	ntwv	70
 性欲	ntww	70
+性价	ntww	70
 发货	ntwx	70
 发信	ntwy	70
 发售	ntwy	70
@@ -24827,6 +24838,7 @@ version: "20231201"
 爆破	ojdh	70
 爆胎	ojec	70
 爆款	ojff	70
+爆雷	ojfl	70
 爆开	ojga	70
 爆表	ojge	70
 爆裂	ojgq	70
@@ -30541,6 +30553,7 @@ version: "20231201"
 年检	rhsw	70
 年长	rhta	70
 爬升	rhta	70
+看盘	rhte	70
 看透	rhte	70
 年租	rhte	70
 看待	rhtf	70
@@ -31978,6 +31991,7 @@ version: "20231201"
 打单	rsuj	70
 打问	rsuk	70
 打浆	rsuq	70
+打新	rsus	70
 打道	rsut	70
 打闪	rsuw	70
 打闹	rsuy	70
@@ -33099,6 +33113,7 @@ version: "20231201"
 横遭	sagm	70
 横死	sagq	70
 模具	sahw	70
+横渠	saia	70
 横波	saih	70
 横测	saim	70
 横滨	saip	70
@@ -33444,6 +33459,7 @@ version: "20231201"
 标明	sfje	70
 村里	sfjf	70
 标题	sfjg	70
+标量	sfjg	70
 瓢虫	sfjh	70
 飘曳	sfjx	70
 杜鹃	sfke	70
@@ -34589,8 +34605,8 @@ version: "20231201"
 校区	suaq	70
 校医	suat	70
 校花	suaw	70
-梯子	subb	70
 样子	subb	70
+梯子	subb	70
 校际	subf	70
 梯队	subw	70
 校对	sucf	70
@@ -34692,6 +34708,7 @@ version: "20231201"
 根号	svkg	70
 要路	svkh	70
 要员	svkm	70
+根因	svld	70
 要回	svlk	70
 概略	svlt	70
 根雕	svmf	70
@@ -35319,6 +35336,7 @@ version: "20231201"
 辞行	tdtf	70
 稽征	tdtg	70
 短片	tdth	70
+智算	tdth	70
 短处	tdth	70
 智利	tdtj	70
 短程	tdtk	70
@@ -35404,6 +35422,7 @@ version: "20231201"
 船队	tebw	70
 舰队	tebw	70
 船台	teck	70
+盘古	tedg	70
 船厂	tedg	70
 盘存	tedh	70
 盘面	tedm	70
@@ -36205,6 +36224,7 @@ version: "20231201"
 牌子	thbb	70
 鼻子	thbb	70
 片子	thbb	70
+算子	thbb	70
 自取	thbc	70
 自卫	thbg	70
 算出	thbm	70
@@ -36549,7 +36569,7 @@ version: "20231201"
 复现	tjgm	70
 得来	tjgo	70
 稞麦	tjgt	70
-复旧	tjhj	70
+利旧	tjhj	70
 利齿	tjhw	70
 香港	tjia	70
 香泽	tjic	70
@@ -39246,6 +39266,7 @@ version: "20231201"
 意在	ujdh	70
 音耗	ujdi	70
 单面	ujdm	70
+单页	ujdm	70
 竟成	ujdn	70
 韵达	ujdp	70
 意愿	ujdr	70
@@ -42744,7 +42765,7 @@ version: "20231201"
 使者	wgft	70
 倒霉	wgft	70
 全境	wgfu	70
-例规	wgfw	70
+合规	wgfw	70
 拿到	wggc	70
 全天	wggd	70
 全球	wggf	70
@@ -42775,6 +42796,7 @@ version: "20231201"
 倒竖	wgjc	70
 登时	wgjf	70
 命题	wgjg	70
+全量	wgjg	70
 例题	wgjg	70
 倒是	wgjg	70
 全日	wgjj	70
@@ -44017,6 +44039,7 @@ version: "20231201"
 侵占	wvhk	70
 分餐	wvhq	70
 分洪	wvia	70
+分池	wvib	70
 分清	wvig	70
 贫油	wvim	70
 分泌	wvin	70
@@ -44028,7 +44051,7 @@ version: "20231201"
 分晓	wvja	70
 侵晨	wvjd	70
 分明	wvje	70
-分野	wvjf	70
+分时	wvjf	70
 分量	wvjg	70
 盆景	wvjy	70
 分号	wvkg	70
@@ -44986,6 +45009,7 @@ version: "20231201"
 红包	xaqn	70
 练兵	xarg	70
 练手	xart	70
+绕接	xaru	70
 红热	xarv	70
 红树	xasc	70
 红杉	xase	70
@@ -45309,8 +45333,10 @@ version: "20231201"
 母本	xgsg	70
 纯朴	xgsh	70
 纯棉	xgsr	70
+母板	xgsr	70
 母校	xgsu	70
 母盘	xgte	70
+母版	xgth	70
 纯毛	xgtf	70
 纯利	xgtj	70
 线程	xgtk	70
@@ -45945,7 +45971,7 @@ version: "20231201"
 乡贤	xtjc	70
 乡里	xtjf	70
 乡野	xtjf	70
-疑是	xtjg	70
+张量	xtjg	70
 绦虫	xtjh	70
 终日	xtjj	70
 终归	xtjv	70
@@ -47019,6 +47045,7 @@ version: "20231201"
 主角	ygqe	70
 主外	ygqh	70
 语句	ygqk	70
+证金	ygqq	70
 请勿	ygqr	70
 主犯	ygqt	70
 主键	ygqv	70
@@ -47365,6 +47392,7 @@ version: "20231201"
 误报	ykrb	70
 误按	ykrp	70
 误打	ykrs	70
+训推	ykrw	70
 训斥	ykry	70
 衰朽	yksg	70
 识相	yksh	70
