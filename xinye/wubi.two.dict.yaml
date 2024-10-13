@@ -591,9 +591,11 @@ version: "20231201"
 雅典	ahma	70
 臣民	ahna	70
 牙刷	ahnm	70
+熙悦	ahnu	70
 牙冠	ahpf	70
 卧室	ahpg	70
 雅安	ahpv	70
+邪神	ahpy	70
 牙色	ahqc	70
 卧铺	ahqg	70
 牙印	ahqg	70
@@ -651,6 +653,7 @@ version: "20231201"
 落马	aicn	70
 落难	aicw	70
 落套	aidd	70
+东大	aidd	70
 落在	aidh	70
 东非	aidj	70
 东面	aidm	70
@@ -4459,6 +4462,7 @@ version: "20231201"
 厌恶	ddgo	70
 大麦	ddgt	70
 套上	ddhh	70
+套卡	ddhh	70
 大叔	ddhi	70
 大步	ddhi	70
 厌旧	ddhj	70
@@ -4548,6 +4552,7 @@ version: "20231201"
 大家	ddpe	70
 大赛	ddpf	70
 大宗	ddpf	70
+大寨	ddpf	70
 大写	ddpg	70
 大军	ddpl	70
 大官	ddpn	70
@@ -4819,6 +4824,7 @@ version: "20231201"
 胡话	deyt	70
 胡说	deyu	70
 有方	deyy	70
+硅基	dfad	70
 硅藻	dfai	70
 瓠子	dfbb	70
 夺取	dfbc	70
@@ -4994,6 +5000,7 @@ version: "20231201"
 感到	dggc	70
 石青	dgge	70
 古玩	dggf	70
+三环	dggg	70
 三更	dggj	70
 威逼	dggk	70
 硬逼	dggk	70
@@ -5618,6 +5625,7 @@ version: "20231201"
 历任	dlwt	70
 历练	dlxa	70
 历经	dlxc	70
+碳基	dmad	70
 布鞋	dmaf	70
 面世	dman	70
 耐劳	dmap	70
@@ -6174,6 +6182,7 @@ version: "20231201"
 奇才	dsft	70
 奇事	dsgk	70
 奇丽	dsgm	70
+奇点	dshk	70
 厅堂	dsip	70
 奇遇	dsjm	70
 奇景	dsjy	70
@@ -6690,6 +6699,7 @@ version: "20231201"
 胎发	ecnt	70
 胎心	ecny	70
 肥料	ecou	70
+盈米	ecoy	70
 肥实	ecpu	70
 胎儿	ecqt	70
 肥皂	ecra	70
@@ -7944,6 +7954,7 @@ version: "20231201"
 云涛	fcid	70
 云浮	fcie	70
 去污	fcif	70
+云水	fcii	70
 动漫	fcij	70
 云淡	fcio	70
 支派	fcir	70
@@ -8315,6 +8326,7 @@ version: "20231201"
 雨淋	fgis	70
 干活	fgit	70
 雨滴	fgiu	70
+雨润	fgiu	70
 干涩	fgiv	70
 博洽	fgiw	70
 二流	fgiy	70
@@ -10336,6 +10348,7 @@ version: "20231201"
 弄脏	gaey	70
 开支	gafc	70
 开动	gafc	70
+武动	gafc	70
 开封	gaff	70
 弄坏	gafg	70
 武士	gafg	70
@@ -10424,6 +10437,7 @@ version: "20231201"
 形容	gapw	70
 开窗	gapw	70
 开窍	gapw	70
+武神	gapy	70
 形神	gapy	70
 弄错	gaqa	70
 形色	gaqc	70
@@ -10739,6 +10753,7 @@ version: "20231201"
 天体	gdws	70
 天分	gdwv	70
 天价	gdww	70
+天谷	gdww	70
 吞食	gdwy	70
 蚕食	gdwy	70
 天线	gdxg	70
@@ -10997,6 +11012,7 @@ version: "20231201"
 五脏	ggey	70
 一截	ggfa	70
 一支	ggfc	70
+环城	ggfd	70
 一封	ggff	70
 一款	ggff	70
 五十	ggfg	70
@@ -11022,6 +11038,7 @@ version: "20231201"
 环球	gggf	70
 五一	gggg	70
 琵琶	gggg	70
+五环	gggg	70
 一下	gggh	70
 一带	gggk	70
 一盏	gggl	70
@@ -11860,6 +11877,7 @@ version: "20231201"
 整地	gkfb	70
 带动	gkfc	70
 带去	gkfc	70
+速运	gkfc	70
 整垮	gkfd	70
 敕封	gkff	70
 速干	gkfg	70
@@ -13850,6 +13868,7 @@ version: "20231201"
 具名	hwqk	70
 齿根	hwsv	70
 具备	hwtl	70
+具身	hwtm	70
 齿条	hwts	70
 盼头	hwud	70
 瞪羚	hwud	70
@@ -17488,6 +17507,7 @@ version: "20231201"
 早茶	jhaw	70
 虫子	jhbb	70
 冒出	jhbm	70
+畅聊	jhbq	70
 冒险	jhbw	70
 申通	jhce	70
 畅通	jhce	70
@@ -19184,6 +19204,7 @@ version: "20231201"
 贵族	khyt	70
 贵州	khyt	70
 跪谢	khyt	70
+中州	khyt	70
 中庸	khyv	70
 忠良	khyv	70
 贵庚	khyv	70
@@ -20644,6 +20665,7 @@ version: "20231201"
 国庆	lgyd	70
 国语	lgyg	70
 车主	lgyg	70
+国证	lgyg	70
 车库	lgyl	70
 国库	lgyl	70
 车市	lgym	70
@@ -20673,6 +20695,7 @@ version: "20231201"
 四声	lhfn	70
 甲壳	lhfp	70
 甲型	lhga	70
+四环	lhgg	70
 四五	lhgg	70
 四下	lhgh	70
 四平	lhgu	70
@@ -23777,6 +23800,7 @@ version: "20231201"
 书简	nntu	70
 书签	nntw	70
 书稿	nnty	70
+快送	nnud	70
 书卷	nnud	70
 快意	nnuj	70
 书童	nnuj	70
@@ -27009,8 +27033,9 @@ version: "20231201"
 容灾	pwpo	70
 空额	pwpt	70
 窃案	pwpv	70
-窗帘	pwpw	70
+空窗	pwpw	70
 窟窿	pwpw	70
+窗帘	pwpw	70
 窈窕	pwpw	70
 窥视	pwpy	70
 容错	pwqa	70
@@ -31686,6 +31711,7 @@ version: "20231201"
 挽歌	rqsk	70
 抱枕	rqsp	70
 拘禁	rqss	70
+欣桥	rqst	70
 换样	rqsu	70
 换季	rqtb	70
 捣乱	rqtd	70
@@ -33692,6 +33718,7 @@ version: "20231201"
 醒目	sghh	70
 配上	sghh	70
 西点	sghk	70
+槽点	sghk	70
 酣战	sghk	70
 酣眠	sghn	70
 西餐	sghq	70
@@ -36805,6 +36832,7 @@ version: "20231201"
 和平	tkgu	70
 种皮	tkhc	70
 和睦	tkhf	70
+积点	tkhk	70
 各占	tkhk	70
 各具	tkhw	70
 积满	tkia	70
@@ -38856,6 +38884,7 @@ version: "20231201"
 凌厉	ufdd	70
 装有	ufde	70
 凌辱	ufdf	70
+斗破	ufdh	70
 装在	ufdh	70
 半百	ufdj	70
 装成	ufdn	70
@@ -40545,6 +40574,7 @@ version: "20231201"
 立冬	uutu	70
 立委	uutv	70
 阅卷	uuud	70
+立减	uuud	70
 立意	uuuj	70
 立决	uuun	70
 立交	uuuq	70
@@ -41785,6 +41815,7 @@ version: "20231201"
 巡缉	vpxk	70
 婉约	vpxq	70
 嫁给	vpxw	70
+嫁衣	vpye	70
 婉谢	vpyt	70
 巡夜	vpyw	70
 婉言	vpyy	70
@@ -43403,6 +43434,7 @@ version: "20231201"
 催生	wmtg	70
 侧身	wmtm	70
 佩特	wmtr	70
+仙逆	wmub	70
 佩兰	wmuf	70
 仙童	wmuj	70
 仙帝	wmup	70
@@ -44531,6 +44563,7 @@ version: "20231201"
 佛光	wxiq	70
 倾洒	wxis	70
 华润	wxiu	70
+华洲	wxiy	70
 倾注	wxiy	70
 化蝶	wxja	70
 华里	wxjf	70
@@ -46555,6 +46588,7 @@ version: "20231201"
 遮天	yagd	70
 试玩	yagf	70
 诬赖	yagk	70
+诺瓦	yagn	70
 遮瞒	yaha	70
 席上	yahh	70
 试点	yahk	70
