@@ -18,7 +18,6 @@ switches:
     states: [ 半角, 全角 ]
   - name: traditionalization
     states: [ 简体, 繁体 ]
-    reset: 0
 
 engine:
   processors:

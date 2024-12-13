@@ -1,0 +1,8 @@
+patch:
+  app_options:
+    com.apple.Spotlight:
+      ascii_mode: true
+    com.apple.Terminal:
+      ascii_mode: true
+    com.googlecode.iterm2:
+      ascii_mode: true
