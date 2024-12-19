@@ -54,7 +54,5 @@ encoder:
       formula: "AaBaCaZa"
 
 import_tables:
-  - xinye/wubi.two
-  - xinye/wubi.one
-  - xinye/wubi.three
-  - xinye/wubi.four
+  - xinye/8105.wubi
+  - xinye/xinye.wubi
