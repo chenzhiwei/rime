@@ -85,6 +85,8 @@ traditionalize:
 
 punctuator:
   import_preset: symbols.plus
+  digit_separators: ".:"
+  digit_separator_action: "commit"
 
 key_binder:
   import_preset: default
