@@ -1,3 +1,0 @@
-# uncomment in macos
-# patch:
-#   "switches/@0/reset": 1 # default to ascii mode
